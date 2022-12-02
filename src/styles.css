@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  overflow: hidden;
+}
+
+.buble {
+  position: absolute;
+  border-radius: 50%;
+  background-color: white;
+  background: linear-gradient(to left, #7e94bf, #88bfb0);
+  box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.2);
+}
